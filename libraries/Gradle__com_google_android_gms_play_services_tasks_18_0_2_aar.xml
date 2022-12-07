@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-tasks:18.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/329f6937f444fc3be2a2b702c8ae21f2/transformed/play-services-tasks-18.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dade4d04a75263da9418d16f6624ea01/transformed/play-services-tasks-18.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/73eca0ce7b3a1f820a25ea4960d25d72/transformed/play-services-tasks-18.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/73eca0ce7b3a1f820a25ea4960d25d72/transformed/play-services-tasks-18.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/73eca0ce7b3a1f820a25ea4960d25d72/transformed/play-services-tasks-18.0.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-tasks/18.0.2/8cb34c1c7ea9ed5e4b284932740bb7d64257c35d/play-services-tasks-18.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
